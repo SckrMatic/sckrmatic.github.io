@@ -1,0 +1,238 @@
+.navbar{
+    padding-left: 0;
+}
+.bs-body-color{
+    background-color: rgb(196, 196, 196);
+}
+.dropdown-divider{
+    margin: 0px 15px;
+}
+
+.navbar-nav{
+    font-weight: 600;
+    font-size: 95%;
+}
+
+.index-noga{
+    font-weight: bold;
+}
+
+.index-body-slika{
+    background-image: url('../slike/orodje-na-mizi.jpeg');
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+
+.creative-comms-link{
+    font-size: 60%;
+}
+
+.creative-comms-link-manj{
+  font-size: 470%;
+}
+
+.icons-black{
+    color: black;
+}
+
+.noga-ozadje{
+    background-color: rgb(128, 128, 128);
+}
+
+.kontakt{
+    color: white;
+    background-color: rgb(128, 128, 128);
+}
+
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .b-example-divider {
+    width: 100%;
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+  }
+
+  .b-example-vr {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 100vh;
+  }
+
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
+
+  .nav-scroller {
+    position: relative;
+    z-index: 2;
+    height: 2.75rem;
+    overflow-y: hidden;
+  }
+
+  .nav-scroller .nav {
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 1rem;
+    margin-top: -1px;
+    overflow-x: auto;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .btn-bd-primary {
+    --bd-violet-bg: #712cf9;
+    --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+    --bs-btn-border-color: var(--bd-violet-bg);
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #6528e0;
+    --bs-btn-hover-border-color: #6528e0;
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #5a23c8;
+    --bs-btn-active-border-color: #5a23c8;
+  }
+  .bd-mode-toggle {
+    z-index: 1500;
+  }
+
+#kontakt { background-color: #efefef }
+#kontakt .container { margin: 0 auto }
+#kontakt .col-sm-12 { margin-bottom: 30px }
+
+#kontakt .row {	margin-bottom: 30px }
+#kontakt .btn { padding: 7px 50px }
+#kontakt .zvezdica { color: red }
+#kontakt {color: black}
+
+#map{
+    height: 500px;
+    width: 100%;
+}
+
+.opacity-85-hover:hover{
+  opacity: 85%;
+  transition: all 1s;
+}
+
+.povezava:link{
+  color: blue;
+  text-decoration: none;
+}
+
+.povezava:visited{
+  text-decoration: none;
+  color: purple;
+}
+
+.povezava:hover{
+  color: blue;
+  text-decoration: underline;
+}
+
+.povezava:active{
+  color: red;
+  text-decoration: underline;
+}
+
+.bg-body-tertiary-blog{
+  background-color: bisque;
+}
+
+.bg-body-tertiary-blog2{
+  background-color: rgba(255, 221, 176, 0.432);
+}
+
+.bg-body-tertiary-blog3{
+  background-color: rgba(239, 245, 183, 0.336);
+}
+
+.bg-body-tertiary-blog4{
+  background-color: rgba(107, 107, 107, 0.336);
+}
+
+.bg-body-tertiary-blog5{
+  background-color: rgba(224, 224, 224, 0.596);
+}
+
+.ozadje-trgovina1{
+  background-color: #f59032;
+}
+.ozadje-trgovina2{
+  background-color: #fff2a8;
+}
+.ozadje-trgovina3{
+  background-color: #ff5d5d;
+}
+.ozadje-trgovina4{
+  background-color: #698cff;
+}
+.ozadje-trgovina5{
+  background-color: #49f089;
+}
+.ozadje-trgovina6{
+  background-color: #67c0f3;
+}
+
+.ozadje-trgovina11{
+  background-color: #80ce6d;
+}
+.ozadje-trgovina21{
+  background-color: #79a4ff;
+}
+.ozadje-trgovina31{
+  background-color: #f75757;
+}
+.ozadje-trgovina41{
+  background-color: #f551e7;
+}
+.ozadje-trgovina51{
+  background-color: #e9f731;
+}
+.ozadje-trgovina61{
+  background-color: #09e8f0;
+}
+
+.ozadje-trgovina12{
+  background-color: #57e034;
+}
+.ozadje-trgovina22{
+  background-color: #5e5a8a;
+}
+.ozadje-trgovina32{
+  background-color: #f32525;
+}
+.ozadje-trgovina42{
+  background-color: #f163b6;
+}
+.ozadje-trgovina52{
+  background-color: #d6ec0c;
+}
+.ozadje-trgovina62{
+  background-color: #2394df;
+}
+
+.barva-rdeca{
+  color: red;
+}
